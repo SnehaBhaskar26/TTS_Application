@@ -1,4 +1,4 @@
-streamlit==1.39.0
-torch==2.4.1+cu121
-TTS==0.22.0
-TTS==0.22.0
+streamlit
+torch
+TTS
+TTS
